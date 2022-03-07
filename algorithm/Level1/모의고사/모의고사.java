@@ -1,4 +1,4 @@
-package level1;
+package 모의고사;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package level1;
+package 숫자더하기;
 
 class Solution {
     public int solution(int numbers) {

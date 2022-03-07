@@ -1,6 +1,6 @@
-package level1;
+package 체육복;
 import java.util.Arrays;
-class Solution {
+class Solution9 {
     public int solution(int n, int[] lost, int[] reserve) {
         int answer = n - lost.length;
         
@@ -35,7 +35,7 @@ public class 체육복 {
 		
 	public static void main(String[] args) {
 		
-		Solution test = new Solution();
+		Solution9 test = new Solution9();
 		int n = 5;
 		int lost[] = {2,4};
 		int reserve[] = {1,3,5};

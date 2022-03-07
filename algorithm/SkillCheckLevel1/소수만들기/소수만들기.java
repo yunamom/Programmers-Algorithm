@@ -1,4 +1,4 @@
-package skill.check.level1;
+package 소수만들기;
 
 class Solution {
     

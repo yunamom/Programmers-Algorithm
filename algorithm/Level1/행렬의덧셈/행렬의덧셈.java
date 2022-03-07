@@ -1,8 +1,8 @@
-package level1;
+package 행렬의덧셈;
 
 import java.util.Arrays;
 
-class Solution {
+class Solution10 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int[][] answer = {}; answer = arr1;
         for(int i=0; i<arr1.length; i++){
@@ -17,7 +17,7 @@ public class 행렬의덧셈 {
 	
 	public static void main(String[] args) {
 		
-		Solution test = new Solution();
+		Solution10 test = new Solution10();
 		// 아래는 테스트로 출력해 보기 위한 코드입니다.
 	    int[][] arr1 = {{1,2},{2,3}};
 	    int[][] arr2 = {{3,4},{5,6}};

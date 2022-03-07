@@ -1,4 +1,4 @@
-package level1;
+package PrintSquare;
 
 import java.util.Scanner;
 

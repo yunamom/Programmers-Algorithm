@@ -1,6 +1,6 @@
-package skill.check.level1;
+package 짝수;
 
-class Solution {
+class Solution1 {
     public int solution(int num) {
        
         int answer = 0;
@@ -25,7 +25,7 @@ public class 짝수 {
 
 	public static void main(String[] args) {
 		
-		Solution test = new Solution();
+		Solution1 test = new Solution1();
 		
 		System.out.println(test.solution(626331));
 	}

@@ -1,4 +1,4 @@
-package level1;
+package PrimeNumber;
 
 class Solution {
     public int solution(int n) {

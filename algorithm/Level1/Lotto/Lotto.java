@@ -1,4 +1,4 @@
-package level1;
+package Lotto;
 
 import java.util.Arrays;
 

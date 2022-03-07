@@ -1,6 +1,6 @@
-package level1;
+package 숫자영단어;
 
-class Solution {
+class Solution4 {
     public int solution(String s) {
         String[] num = {"zero","one",
         				"two","three",
@@ -16,7 +16,7 @@ class Solution {
 public class 숫자영단어 {
 
 	public static void main(String[] args) {
-		Solution test = new Solution();
+		Solution4 test = new Solution4();
 		
 		System.out.println(test.solution("2three45sixseven"));
 	}

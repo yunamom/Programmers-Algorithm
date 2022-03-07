@@ -1,4 +1,4 @@
-package level1;
+package K번째수;
 
 import java.util.Arrays;
 
