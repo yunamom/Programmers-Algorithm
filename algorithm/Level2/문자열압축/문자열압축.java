@@ -49,7 +49,7 @@ class Solution {
                 str+=s.substring(s.length()-s.length()%i,s.length());
             }           
             // 10. 가장 짧은 길이를 찾음.
-            answer = answer > str.length() ? str.length() : answer;
+            answer = (answer > str.length()) ? str.length() : answer;
         }       
         return answer;
     }
@@ -64,6 +64,5 @@ public class 문자열압축 {
         System.out.println(solution.solution("abcabcdede"));
         System.out.println(solution.solution("abcabcabcabcdededededede"));
         System.out.println(solution.solution("xababcdcdababcdcd"));	
-        
 	}
 }

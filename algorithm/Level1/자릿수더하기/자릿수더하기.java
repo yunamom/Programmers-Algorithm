@@ -1,7 +1,7 @@
 package 자릿수더하기;
 
 
-class Solution13 {
+class Solution {
 	
     public int solution(int n) {
     	
@@ -25,7 +25,7 @@ public class 자릿수더하기 {
 		 *  예를들어 N = 123이면 1 + 2 + 3 = 6을 return 하면 됩니다.
 		 *
 		 */
-		Solution13 test = new Solution13();
+		Solution test = new Solution();
 		
 		System.out.println(test.solution(123));
 	}

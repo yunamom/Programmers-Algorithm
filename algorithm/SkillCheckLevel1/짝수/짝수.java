@@ -1,6 +1,6 @@
 package 짝수;
 
-class Solution1 {
+class Solution {
     public int solution(int num) {
        
         int answer = 0;
@@ -25,7 +25,7 @@ public class 짝수 {
 
 	public static void main(String[] args) {
 		
-		Solution1 test = new Solution1();
+		Solution test = new Solution();
 		
 		System.out.println(test.solution(626331));
 	}
