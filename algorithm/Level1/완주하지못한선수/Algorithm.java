@@ -19,11 +19,11 @@ class Solution {
 	} 
 }
 
-
 public class Algorithm {
 	
 	public static void main(String[] args) {
 		
+		/* 테스트 코드 입니다. */
 		String participant[] = {"mislav", "stanko", "mislav", "ana"};
 		String completion[] = {"stanko", "ana", "mislav"};
 		
